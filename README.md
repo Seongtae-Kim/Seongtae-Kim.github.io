@@ -1,1 +1,0 @@
-# Seongtae-Kim.github.io
