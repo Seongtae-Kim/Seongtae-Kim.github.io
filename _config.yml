@@ -28,7 +28,7 @@ twitter_username: kst7984
 github_username:  Seongtae-Kim
 
 # Build settings
-theme: minima
+theme: jekflix
 plugins:
   - jekyll-feed
 
