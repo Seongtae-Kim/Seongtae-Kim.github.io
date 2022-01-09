@@ -1,8 +1,8 @@
 # WHO AM I?
 
-![profile_photo](../_images/profile_photo.jpg)
+![profile_photo](./profile_image/profile_photo.jpg){:class="img-responsive"}
 
-
+<br>
 
 ----
 
@@ -10,7 +10,7 @@
 
 ----
 
-
+<br>
 
 ## 한글 프로필
 
@@ -26,7 +26,7 @@
 
 **MBTI**: `ENFP`
 
-
+<br>
 
 ## English Profile
 
@@ -41,3 +41,5 @@
 **Hobby**: `Classical Movie`, `Classical Music`, `Classic Pop`, `Video Game`, `Hiking`, `Violin`
 
 **MBTI**: `ENFP`
+
+<br>
