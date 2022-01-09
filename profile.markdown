@@ -4,7 +4,7 @@
 
 ----
 
-<img src="/home/seongtae/Desktop/Seongtae-Kim.github.io/assets/images/profile_photo.jpg" alt="profile" title="profile photo" />
+<img src="{{site.baseurl}}/assets/images/profile_photo.jpg" alt="profile" title="profile photo" />
 
 <p align="center"><b>DON'T PANIC!</b></p>
 
