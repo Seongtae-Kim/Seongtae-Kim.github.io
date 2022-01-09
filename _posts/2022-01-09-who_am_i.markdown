@@ -6,7 +6,7 @@
 
 ----
 
-<center><b>DON'T PANIC!<b/></center>
+<p align="center"><b>DON'T PANIC!<b/><p/>
 
 ----
 
@@ -43,3 +43,4 @@
 **MBTI**: `ENFP`
 
 <br>
+
