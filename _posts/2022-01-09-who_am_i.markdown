@@ -4,7 +4,7 @@
 
 ----
 
-![profile_photo](../assets/images/profile_photo.jpg){:class="img-responsive"}
+<img src="../assets/images/profile_photo.jpg" alt="profile" title="profile photo" />
 
 <p align="center"><b>DON'T PANIC!</b></p>
 
