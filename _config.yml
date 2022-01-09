@@ -23,7 +23,7 @@ title: Deep Thought
 email: chris.seongtae@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   깊은 생각
-baseurl: /seongtae # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seongtae-kim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kst7984
 github_username:  Seongtae-Kim
