@@ -1,8 +1,8 @@
 <br>
 
-----
-
 <img src="{{site.baseurl}}/assets/images/profile_photo.jpg" alt="profile" title="profile photo" />
+
+---
 
 <p align="center"><b>DON'T PANIC!</b></p>
 
