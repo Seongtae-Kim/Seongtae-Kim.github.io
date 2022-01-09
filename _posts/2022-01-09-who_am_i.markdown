@@ -1,6 +1,6 @@
 # WHO AM I?
 
-![profile_photo](Images/profile_photo.jpg){:class="img-responsive"}
+![profile_photo](assets/images/profile_photo.jpg){:class="img-responsive"}
 
 <br>
 
